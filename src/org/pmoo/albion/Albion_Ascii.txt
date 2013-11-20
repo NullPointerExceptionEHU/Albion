@@ -1,0 +1,36 @@
+
+
+
+
+        :@          :@             G@          t@      ;G            Gt         
+       ;@@@        :@@            G@@@        t@@     ;@@@          G@@l        
+      i@@@@@      :G@@           G@@@@@      tG@@    ;@@@@@        G@@@@t       
+     lG@@@@@@    :GG@@          @G@@@@@@    LGG@@   i@G@@@@G      @G@@@@@t      
+    l@GG@@@@@@   GGG@@         @@GG@@@@@@   GGG@@  i@@G@@@@@G    GGGG@@@@@t     
+   f@@G@G@@GG@@  GGG@@        @@@G@G@GGG@@  GGG@@ ;G@G@G@@GG@G  GGG@GG@GG@@C    
+   @@@G@@GGGGG@  GGG@@        @@@G@@GGGGG@  GGGG@ CG@G@@GGGGGG GGGG@@GGGGG@@    
+   @@GG@ @CCCC@  CGGG@        @@GG @@GGGG@  CCGG@ CGGG@ @CCGGC CCGG@ @CCCG@@    
+   GGGC@  GCCC@  CCGG@        GGGC   fGGG@  GCCC@ CCGG@   GGGC CCCC@   GCGG@    
+   GCCC@  CCCC@  CCCG@        GCCC  tCGGC@  GCCC@ CCCC@   GGGC CGCC@   CCCG@    
+   GCCC@  CCCC@  CCCG@        CCCC fCCGGC@  GCCC@ CCCC@   CGCC CCCC@   CCCG@    
+   CCCC@  CCCC@  CCCC@        CCCCfCCCCC@   CCCC@ LCCC@   CCCC CCCC@   CCCG@    
+   CLLCC  LCCC@  LCCC@        CCCCLLCCC@    CCCL@ LCCC@   CCCL LCCC@   CLCC@    
+   CLLLLLLLCCC@  LLLC@        CCCLLLCCCC    LLLL@ LLLL@   CCCL LCCC@   CLLC@    
+   CCLLLLLLLCL@  LLLC@        CCCLLLCCCCC   LLLL@ LLLL@   LCLL LCCL@   LLLC@    
+   CCLLLLLLLLL@  LLLL@        CCLLLLLLLLL@  LLLL@ LLLL@   LLLL LLLL@   LLLC@    
+   LLLLfffLfLL@  LLLL@        LLLLf@LLLLL@  ffLf@ fLLL@   LLLf LLLL@   LfLL@    
+   LLLf@@@ffff@  fffL@   L@   fLLf@ @fLLf@  ffff@ ffff@   ffff fLLL@   ffLL@    
+   LLff@  ffff@  ffff@  LLf@  ffff@  fLLf@  ffff@ ffff@  fffff fffL@   ffLL@    
+   Lfff@  ffff@  ffff@ LLLff@ ffff@ ;ffff@  ffff@ fffff ffffff ffff@   fffL@    
+   ffff@  ffff@  fffffffffff@ ffffL;fffff@  ffff@ fffffffffff@ ffff@   ffff@    
+  ffffff@tfffff@ @fffffffff@ fffff;ffffff@ ffffff@@fffffffff@ ffffff@ ffffffC   
+ Gffffff@fffffff@ @ffffftf@@Lffffffttfff@@Lffffff@ @fffffff@ @ffffffffffftff@   
+ @Gffff@ @ffttf@   @fffff@  @fffffffttf@  @Lfftf@   @fffff@   @fffff@@ffftt@    
+  @Gff@   @ftt@     @fff@    @ffffffft@    @Ltt@     @fft@     @fff@  @ftt@     
+   @G@     @t@       @f@      @ffffft@      @f@       @t@       @f@    @t@      
+    @       @         @        @@@@@@        @         @         @      @       
+
+
+
+
+
